@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-file_path = r"C:\Users\user\proyek_analisis_data\dashboard\Aotizhongxin.csv"
+file_path = r"Aotizhongxin.csv"
 
 data = pd.read_csv(file_path)
  
